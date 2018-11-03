@@ -13,7 +13,7 @@
     <fontcolor foreColor="ffa9b7c6" name="separator"/>
     <fontcolor foreColor="ffa9b7c6" name="operator"/>
     <fontcolor foreColor="ff287bde" name="url" underline="ff287bde"/>
-    <fontcolor foreColor="ff6897bb" name="number"/>
+    <fontcolor foreColor="ffdb9d63" name="number"/>
     <fontcolor bgColor="ff282c34" foreColor="ffabb2bf" name="default"/>
     <fontcolor default="identifier" foreColor="ff9876aa" name="field"/>
     <fontcolor foreColor="ff6a8759" name="char"/>
