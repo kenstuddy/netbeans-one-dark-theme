@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE type PUBLIC "-//NetBeans//DTD annotation type 1.0//EN" "http://www.netbeans.org/dtds/annotation-type-1_0.dtd">
+<type actions="PairedProfilePointActions" browseable="false" custom_sidebar_color="0xb4e4fc" description_key="TT_LoadGenProfilePoint" glyph="nbresloc:/org/netbeans/modules/profiler/ppoints/ui/icons/loadgenProfilingPoint.png" highlight="0xb4e4fc" inherit_foreground_color="true" localizing_bundle="org.netbeans.modules.profiler.ppoints.ui.Bundle" name="loadgenProfilingPoint" priority="100" severity="ok" type="line" use_custom_sidebar_color="true" use_highlight_color="true" use_wave_underline_color="false" visible="true"/>
